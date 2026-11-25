@@ -1,4 +1,3 @@
-Data Structures and Algorithms journey in Python
 # DSA Journey 🚀
 
 Welcome to my Data Structures and Algorithms practice repository!
