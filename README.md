@@ -1,2 +1,2 @@
 # DSA
-DSA journey -problem solving
+Data Structures and Algorithms journey in Python
